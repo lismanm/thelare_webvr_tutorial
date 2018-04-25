@@ -4,7 +4,7 @@ var vRViewPlayer = function(elementIdName, options) {
 }
 
 var drawingRoom = vRViewPlayer('#first-vr-example', {
-  // image: 'assets/dolphins.jpg',
+  // image: 'https://photosphereviewer.net/images/demo/demo1_full.jpg',
   image: 'https://pasteboard.co/images/HheZRUL.jpg/download',
   is_stereo: false,
 });
