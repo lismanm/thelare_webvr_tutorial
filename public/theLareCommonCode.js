@@ -4,7 +4,7 @@ var vRViewPlayer = function(elementIdName, options) {
 }
 
 var drawingRoom = vRViewPlayer('#first-vr-example', {
-  // image: 'https://photosphereviewer.net/images/demo/demo1_full.jpg',
+  // image: 'https://fscl01.fonpit.de/userfiles/4155894/image/photo-sphere-w628.jpg',
   image: 'https://pasteboard.co/images/HheZRUL.jpg/download',
   is_stereo: false,
 });
